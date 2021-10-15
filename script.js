@@ -1,13 +1,13 @@
 function WriteToFile(passForm) {
 
-  set fso = CreateObject("Scripting.FileSystemObject");
-  set s   = fso.CreateTextFile("<your Path>/filename.txt", True);
+  // set fso = CreateObject("Scripting.FileSystemObject");
+  // set s   = fso.CreateTextFile("<your Path>/filename.txt", True);
 
-  s.writeline("First Name :");
-  s.writeline("Last Name");
+  // s.writeline("First Name :");
+  // s.writeline("Last Name");
 
-  s.writeline("-----------------------------");
-  s.Close();
+  // s.writeline("-----------------------------");
+  // s.Close();
 }
 
 function btnClicked(e){

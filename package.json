@@ -1,0 +1,23 @@
+{
+  "name": "online-chat-server",
+  "version": "1.0.0",
+  "description": "This is an online test server for a java based chat application to connect with each other.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushjaink8/online-chat-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushjaink8/online-chat-server/issues"
+  },
+  "homepage": "https://github.com/ayushjaink8/online-chat-server#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
